@@ -1,3 +1,2 @@
-Git is a version control system
-Git is free soware
-gaile
+--个人常用工具类
+2017.03.28    添加了共享参数工具类
